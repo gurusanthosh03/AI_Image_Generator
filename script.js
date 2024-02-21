@@ -1,6 +1,6 @@
 const generateForm  = document.querySelector('.generate-form')
 const imageGallery = document.querySelector('.image-gallery')
-const OPENAI_API_KEY = "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"
+const OPENAI_API_KEY = "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"
 
 let isImageGenerating = false
 
